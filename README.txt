@@ -1,5 +1,10 @@
+
+
+C'est un test pour savoir comment editer un fichier et l'impact sur le projet git.
+
+
 Je propose comme librairie : SFML 
-C'est une librairie qui gère tout (audio, graphique etc) une sorte de SDL mais orienté objet directement assez simple à utiliser 
+C'est une librairie qui gÃ¨re tout (audio, graphique etc) une sorte de SDL mais orientÃ© objet directement assez simple Ã  utiliser 
 
 
 On peut faire les maps avec le logiciel Tileset( je crois qu'on peut les importer dans le jeu plutot facilement )
@@ -10,8 +15,7 @@ On peut faire les maps avec le logiciel Tileset( je crois qu'on peut les importe
 On part sur quel mode de jeu ? : RPG / AVENTURE / ACTION ? 
 On se rapproche de quelle style de jeu : Zelda/mario ?? 
 
-Si on à d'autre idée on le fait ici 
-
+Si on Ã  d'autre idÃ©e on le fait ici 
 
 
 
